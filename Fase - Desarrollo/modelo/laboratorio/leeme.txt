@@ -1,0 +1,1 @@
+Modelo del laboratorista que vera las ordenes de examens de la consulta medica.
