@@ -1,0 +1,3 @@
+Contiene el archivo con la estrucutra de la base de datos sin registros de 
+consultas ni usuarios de internos en el caso de reestablecer la base de datos
+del sistema del sitio web.
