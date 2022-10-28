@@ -1,0 +1,1 @@
+Carpeta de estilo, en esta carpeta esta el codigo html y css para mejorar la visibilidad del sitio Web
