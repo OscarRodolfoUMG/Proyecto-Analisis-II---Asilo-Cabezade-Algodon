@@ -1,0 +1,8 @@
+Dentro del repositorio encontrara las versiones del Proyecto
+
+La primera version se encuentra en la Carpeta "Prototipo"
+
+La segunda version se encuentra en la Carperta "Fase - Login"
+
+La ultima version, siendo esta la version de desarrollo e implementacion
+la encontrara en la carpeta "Fase - Desarrollo".
