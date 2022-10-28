@@ -1,0 +1,1 @@
+Archivos de funciones para el funcionamiento del sitio web.
