@@ -1,0 +1,1 @@
+Contiene las interfaces y funciones de la interfaz para el asilo.
