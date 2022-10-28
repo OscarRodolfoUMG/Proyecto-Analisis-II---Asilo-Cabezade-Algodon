@@ -1,0 +1,4 @@
+Carpata de las instancias de la base de datos:
+
+El archivo "Querys Durante el desarrollo.sql" contiene las consultas utilizadas durante el desarrollo de la aplicacion.
+
