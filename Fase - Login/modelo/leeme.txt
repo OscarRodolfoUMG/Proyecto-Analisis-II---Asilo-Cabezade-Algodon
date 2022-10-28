@@ -1,0 +1,1 @@
+En esta carpeta encontrala la funcion suscriber utilizada para registrar un usuario interno y los medelos de cada uno de los usarios del sitio web.
